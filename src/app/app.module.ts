@@ -38,7 +38,8 @@ import { SignupPageComponent } from './pages/signup-page/signup-page.component';
   imports: [
     BrowserModule,
     FormsModule,
-    HttpModule
+    HttpModule,
+    Routing
   ],
   providers: [],
   bootstrap: [AppComponent]
